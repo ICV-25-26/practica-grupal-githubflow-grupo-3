@@ -1,1 +1,11 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gdSpac-y)
+Acuerdos para el grupo.
+
+Trabajaremos mediante Pull Request. (Solo el jefe de equipo puede aceptarlos). Las ramas no se eliminaran despues del Pull Request.
+
+Se trabajan por ramas y tendremos la siguiente nomenclatura: INICIALES_BREVE DESCRIPCION DE LA RAMA
+
+Todos los commmits deben especificar que cambios se han echo en el proyecto.
+
+La metodologia de trabajo se basara en la de Github Flow.
+
+Todo se ha acordado grupalmente estando todos conformes.
